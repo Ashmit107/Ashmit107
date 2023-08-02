@@ -1,10 +1,10 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Ashmit Srivastava</h1>
-<h3 align="center">A frontend, Flutter developer and an aspiring data analyst from India</h3>
+<h3 align="center">A frontend developer and an aspiring data analyst from India</h3>
 
 - 🌱 I’m currently learning **AWS, ReactJS, Flutter**
 
-- 💬 Ask me about **Java, Frontend ,Tableau & Flutter**
+- 💬 Ask me about **Java, Frontend ,Tableau**
 
 - 📫 How to reach me **ashmit.srivastava2001@gmail.com**
 
