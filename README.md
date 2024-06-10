@@ -1,16 +1,16 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Ashmit Srivastava</h1>
-<h3 align="center">A frontend developer and an aspiring data analyst from India</h3>
+<h3 align="center">An aspiring data analyst from India</h3>
 
-- 🌱 I’m currently learning **AWS, ReactJS, Flutter**
+- 🌱 I’m currently learning **AWS, Database, Machine Learning**
 
-- 💬 Ask me about **Java, Frontend ,Tableau**
+- 💬 Ask me about **MySQL, Operating System, Tableau**
 
 - 📫 How to reach me **ashmit.srivastava2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_ashmitsrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ashmitsrivastava" height="30" width="40" /></a>
+<a href="https://instagram.com/ashmitsrivastava_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ashmitsrivastava" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
